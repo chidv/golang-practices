@@ -1,0 +1,4 @@
+This is a file created for testing purposes.
+The intention of this creation is to test the wc program
+and check whether the output comes as expected. For this file,
+the result should be 36
